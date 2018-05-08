@@ -1,0 +1,2 @@
+# Python-TextToSQL-Data-Statistics
+This was a first year University project I completed in 2013. It uses Python to insert records from a .txt document into an SQL database. Afterwards, it fetches data based on those records, specifically the best and worst ratings for a make of car, the average rating, and the most expensive cars.
